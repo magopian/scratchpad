@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Scratchpad",
+  "version": "1.0",
+
+  "description": "Displays a scratchpad",
+
+  "icons": {
+    "48": "icons/scratchpad-48.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "icons/scratchpad-48.png"
+    },
+    "default_title": "Scratchpad",
+    "default_popup": "scratchpad.html",
+    "default_title": "A scratchpad"
+  }
+}
